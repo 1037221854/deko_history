@@ -1,0 +1,27 @@
+set1hex:true
+set1name:11 0d 0a
+set1key:11 0d 0a
+set2hex:false
+set2name:你好
+set2key:你好
+set3hex:true
+set3name:11
+set3key:11
+set4hex:false
+set4name:
+set4key:
+set5hex:false
+set5name:
+set5key:
+set6hex:false
+set6name:
+set6key:
+set7hex:false
+set7name:
+set7key:
+set8hex:false
+set8name:
+set8key:
+set9hex:false
+set9name:
+set9key:
